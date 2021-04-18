@@ -1,6 +1,7 @@
 # Budget Tracker(PWA) ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Deployed and installable app can be found [here](https://yulduzetta-budget-tracker.herokuapp.com/).
 
+<img width="1431" alt="demo" src="https://user-images.githubusercontent.com/13324397/115136288-73daa180-9fe4-11eb-85d9-359ce257a3fe.png">
 
 ## Description 🤓
 This browser installable app allows user to track withdrawals and deposits with or without a data/internet connection.
