@@ -1,4 +1,4 @@
-// creatte variable to hold db connection
+// create variable to hold db connection
 let db;
 
 // Establish a connection to IndexDB database called 'budget-tracker'
